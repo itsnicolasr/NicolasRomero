@@ -36,8 +36,8 @@ He trabajado con diversas herramientas y tecnologías como **JavaScript**, **Rea
       <br />
     </td>
     <td>
-      <a href="https://github.com/itsnicolasr/proyecto">
-        <img src="https://via.placeholder.com/300x200?text=E-commerce+App" alt="proyecto" style="width: 100%;"/>
+      <a href="https://github.com/itsnicolasr/E-commerce">
+        <img src="https://via.placeholder.com/300x200?text=E-commerce+App" alt="E-commerce" style="width: 100%;"/>
       </a>
       <br />
     </td>
