@@ -7,21 +7,20 @@
 [![YouTube](https://img.shields.io/badge/YouTube-itsnicolasr_by_NicolasRomero-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@itsnicolasr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NicolasRomero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nicolasromero)
 [![GitHub](https://img.shields.io/badge/GitHub-itsnicolasr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/itsnicolasr)
-[![Fiverr](https://img.shields.io/badge/Fiverr-@itsnicolasr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=101010)](https://www.fiverr.com/itsnicolasr)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@itsnicolasr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/itsnicolasr)
 [![Instagram](https://img.shields.io/badge/Instagram-@itsnicolasr-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/itsnicolasr)
-[![TikTok](https://img.shields.io/badge/TikTok-@itsnicolasr-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@its.nicolasr)
 [![Facebook](https://img.shields.io/badge/Facebook-@itsnicolasr-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/itsnicolasr)
 </br>
+[![Fiverr](https://img.shields.io/badge/Fiverr-@itsnicolasr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=101010)](https://www.fiverr.com/itsnicolasr)
 [![Behance](https://img.shields.io/badge/Behance-NicolasRomero-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.net/itsnicolasr)
-[![Discord](https://img.shields.io/badge/Discord-itsnicolasr-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/itsnicolasr)
+
 
 ## 🧑‍💻 ¿Quién soy?
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas tanto en la web como en dispositivos móviles. Mi experiencia abarca desde el desarrollo de aplicaciones móviles, hasta soluciones web complejas para empresas y clientes individuales. Mi objetivo es seguir aprendiendo, desarrollando y aportando valor a la comunidad tecnológica.
 
-He trabajado con diversas herramientas y tecnologías como **JavaScript**, **React**, **Node.js**, **Flutter**, entre otras, y siempre estoy en busca de nuevos desafíos.
+He trabajado con diversas herramientas y tecnologías como **JavaScript**, **React**, **Node.js**, entre otras, y siempre estoy en busca de nuevos desafíos.
 
 ## 📚 Algunos proyectos de mi portafolio
 
@@ -76,7 +75,7 @@ He trabajado con diversas herramientas y tecnologías como **JavaScript**, **Rea
 
 - **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Python
 - **Backend:** Node.js
-- **Bases de datos:** MySQL, PostgreSQL
-- **Aplicaciones móviles:** React Native
-- **Herramientas de desarrollo:** Git, Docker, Webpack
+- **Bases de datos:** MySQL, PostgreSQL, SQL
+- **Aplicaciones móviles:** React Native, Dart, Flutter
+- **Herramientas de desarrollo:** Git, Docker, Webpack, tailwind
   
