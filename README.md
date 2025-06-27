@@ -74,18 +74,9 @@ He trabajado con diversas herramientas y tecnologías como **JavaScript**, **Rea
 
 ## 🛠️ Tecnologías que domino
 
-- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Python, 
-- **Backend:** Node.js, Django,
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Python
+- **Backend:** Node.js
 - **Bases de datos:** MySQL, PostgreSQL
 - **Aplicaciones móviles:** React Native
 - **Herramientas de desarrollo:** Git, Docker, Webpack
-- **Servicios en la nube:** AWS, Firebase,
   
-## 📚 Mis recursos gratuitos
-
-### 💻 **Cursos gratuitos y recursos:**
-
-- [Curso básico de JavaScript](https://github.com/itsnicolasr/curso-javascript)
-- [Curso básico de React](https://github.com/itsnicolasr/curso-react)
-- [Curso básico de Node.js](https://github.com/itsnicolasr/curso-node)
-- [Documentación de proyectos open-source](https://github.com/itsnicolasr/documentacion-proyectos)
